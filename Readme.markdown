@@ -6,6 +6,10 @@ I'm using the one big Org file approach.
 
 I've set it up to auto update for preview: start the server with `hugo server -D --navigateToChanged`
 
+## Theme
+
+I'm using Hugo-Coder but not as a submodule. The hugo site is set up as a module and the theme is a dependency. When cloning this repo you'll need to run `hugo mod get` to fetch the dependencies or `hugo mod get -u` to update everything.
+
 ## Deployment
 
 Just ftp the `public` directory to the server.

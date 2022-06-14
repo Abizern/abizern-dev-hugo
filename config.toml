@@ -1,3 +1,93 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://abizern.dev"
+title = "abizern.dev"
+languagecode = "en-gb"
+defaultcontentlanguage = "en"
+enableEmoji = true
+
+paginate = 10
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  author = "Abizer Nasir"
+  info = "iOS/macOS developer"
+  description = "Abizer Nasir's Developer blog"
+  keywords = "blog,developer,swift,lisp"
+  license = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY-4.0</a>'
+  dateFormat = "2006-01-02"
+  avatarurl = "/images/250px-BG.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/images/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
+  touchIcon = "/images/apple-touch-icon.png"
+
+  #since = 2021 # Change this if older posts are migrated over.
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Abizern/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/abizern/"
+
+[[params.social]]
+  name = "Contact"
+  icon = "fa fa-envelope fa-2x"
+  weight = 3
+  url = "mailto:abizern@mac.com"
+
+[[params.social]]
+  name = "Stackoverflow"
+  icon = "fa fa-stack-overflow fa-2x"
+  weight = 4
+  url = "https://stackoverflow.com/users/41116/abizern"
+
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 5
+  url = "https://www.linkedin.com/in/abizern/"
+
+
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "posts/"
+
+[[menu.main]]
+  name = "Talks"
+  weight = 3
+  url  = "talks/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 4
+  url  = "tags/"
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/luizdepra/hugo-coder"

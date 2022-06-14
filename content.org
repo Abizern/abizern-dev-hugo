@@ -1,0 +1,166 @@
+#+HUGO_BASE_DIR: ./
+#+STARTUP: indent
+
+* Posts
+** My first post
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:EXPORT_DATE: 2022-06-14 
+:END:
+
+This is the first post.
+
+just to get something up on the site.
+
+* About
+:PROPERTIES:
+:EXPORT_FILE_NAME: about
+:EXPORT_HUGO_SECTION: /
+:END:
+
+I am a freelance and iOS and macOS developer based in London. You can find me online at various places with the username of =abizern=.
+
+I strive to write modern and maintainable code. Primarily I work in Swift, having moved on from Objective-C, but I've also played around with Ruby, Python, Haskell, and Common Lisp.
+
+I organise the monthly [[http://nscodernightlondon.com][NSCoder Night London]] meetup when iOS and macOS developers meet to chat. Unfortunately this has gone on hiatus because of the Pandemic, but I'm looking to start it up again soon.
+
+You can see my old blog over at [[https:abizern.org][abizern.org]] but I'm going to keep this one just for developer stuff and code.
+
+** Contract availability
+I'm available for new contracts.
+
+** GPG
+
+Key ID: =7E2C07666BEEED1C=
+
+Key Signature: =CF1C 8FE5 A508 0E70 4BCB  97DE 7E2C 0766 6BEE ED1C=
+
+Key: Available on a keyserver near you, or you can [[/res/GPGKey.asc][download it here]].                                               
+
+* Talks
+:PROPERTIES:
+:EXPORT_FILE_NAME: talks
+:EXPORT_HUGO_SECTION: /
+:END:
+
+Talks and presentations I've given at various conferences and meet-ups over the years.
+
+** The Road to Damascus, or FRP and Me
+/NSSpain 2017-09-14/
+
+A talk given at NSSpain about my experiences of looking into using Functional Reactive Programming with RxSwift.
+- [[https://speakerdeck.com/abizern/the-road-to-damascus-or-frp-and-me][Slides on Speaker Deck]]
+- [[https://speakerdeck.com/abizern/the-road-to-damascus-or-frp-and-me][Video on NSSpain's Vimeo]]
+
+-----
+
+** Be Your Own Backend Developer
+/Code Mobile, Chester, 2017-04-18/
+
+An overview of Serve Side Swift. A video recording was made, but unfortunately it isn't available.
+- [[https://speakerdeck.com/abizern/be-your-own-backend-developer][Slides on Speaker Deck]]
+
+-----
+  
+** Safer Programming with Types
+/Swift London, 2016-10-25/
+
+A lightning talk from a Swift London meetup
+
+- [[https://speakerdeck.com/abizern/safer-programming-with-types][Slides on Speaker Deck]] notes attached
+- [[https://www.youtube.com/watch?v=uR6ox-9VPAA&t=1s][Video on YouTube]]
+
+-----
+  
+** Core Data: It's not Dead Yet
+/FrenchKit 2016-09-23/
+
+I spoke at the first FrenchKit conference about how Core Data is still relevant.
+
+- [[https://speakerdeck.com/abizern/core-data-its-not-dead-yet][Slides on Speaker Deck]]
+- [[https://youtu.be/iOdg7WOEWWE][Video on YouTube]]
+
+-----
+  
+** Being Imperfect in a Perfect World
+/NSBarcelona, 2016-09-21/
+
+I spoke at the NSBarcelona meetup about the choices we make about the patterns we use in development.
+
+- [[https://speakerdeck.com/abizern/being-imperfect-in-a-perfect-world][Slides on Speaker Deck]]
+
+-----
+  
+** Swift London Pre-WWDC Panel
+/Swift London, 2016-06/
+
+I was a late addition to this, which is my excuse for looking so scruffy.
+
+- [[https://www.youtube.com/watch?v=PK1PPNTmGuw][Video on YouTube]]
+
+-----
+  
+** Dependency Management with Carthage
+/CocoaHeads Stockholm, 2016-05/
+
+An updated of my previous year's talk about using Carthage for dependency management.
+
+- [[https://speakerdeck.com/abizern/dependency-management-with-carthage][Slides on Speaker Deck]]
+- [[https://vimeo.com/album/3943556/video/165920026][Video on Vimeo]]
+
+-----
+
+** Carthage
+/NSLondon 2015-07-30/
+
+A talk at NSLondon about using Carthage for dependency management.
+
+- [[https://speakerdeck.com/abizern/carthage][Slides on Speaker Deck]]
+
+-----
+  
+** What Haskell Teaches me about Writing Swift
+/AltConf, San Francisco, 2015-06/
+
+I had a chance to present a longer version of the lightning talk I gave at Swift Summit. These are my personal thoughts about writing Swift after knowing some Haskell.
+
+- [[https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift][Slides on Speaker Deck]]
+- A video was made of this, but it's no longer available.
+
+-----
+
+** What Haskell Taught me about Swift
+/Swift Summit, London, 2015-03-21/
+
+A lightning talk about a few things that knowing Haskell helped me with Swift
+
+- [[https://speakerdeck.com/abizern/what-haskell-taught-me-about-writing-swift][Slides on Speaker Deck]]
+
+-----
+
+** Fizz Buzz in Swift
+/NSLodon, 2014-08-14/
+
+A talk I gave about different approaches to solving the Fizz Buzz problem in in Swift, along with some thoughts about the new language.
+
+This was my first mention in [[https://iosdevweekly.com/issues/167][iOS Dev Weekly]].
+
+- [[https://speakerdeck.com/abizern/fizzbuzz-in-swift-a-talk-with-3-codas][Slides on Speaker Deck]]
+
+-----
+  
+** Adding 3rd Party Code to your Project
+/iOSCon 2014, London, 2014-05-15/
+
+Covering the usage of Git and CocoaPods for adding dependencies to an Xcode project.
+
+- [[https://speakerdeck.com/abizern/adding-3rd-party-code-to-xcode-projects][Slides on Speaker Deck]]
+- [[https://skillsmatter.com/skillscasts/5058-third-party-code][Video at Skills Matter]] (free login required)
+
+-----
+
+** DVCS at LiDG
+/LiDG, London, 2010-10-08/
+
+A short presentattion to the London iPhone Developer Group in the Regent Street Apple store.
+

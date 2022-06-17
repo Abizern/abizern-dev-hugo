@@ -2,15 +2,13 @@
 #+STARTUP: indent
 
 * Posts
-** My first post
+** First
 :PROPERTIES:
-:EXPORT_FILE_NAME: my-first-post
+:EXPORT_FILE_NAME: first
 :EXPORT_DATE: 2022-06-14 
 :END:
 
-This is the first post.
-
-just to get something up on the site.
+This is the first post. Just to get something up on this site. I may, or may not, bring over some of the posts from [[http://abizern.org][abizern.org]].
 
 * About
 :PROPERTIES:

@@ -4,7 +4,9 @@ author = ["Abizer Nasir"]
 draft = false
 +++
 
-I am a freelance and iOS and macOS developer based in London. You can find me online at various places with the username of `abizern`.
+I am a freelance and iOS and macOS developer based in London. Currently, I'm a Senior iOS Developer for the Lloyds Banking Group.
+
+You can find me online at various places with the username of `abizern`.
 
 I strive to write modern and maintainable code. Primarily I work in Swift, having moved on from Objective-C, but I've also played around with Ruby, Python, Haskell, and Common Lisp.
 
@@ -15,7 +17,7 @@ You can see my old blog over at [abizern.org](https:abizern.org) but I'm going t
 
 ## Contract availability {#contract-availability}
 
-I'm available for new contracts.
+I'm not available for new contracts.
 
 
 ## GPG {#gpg}

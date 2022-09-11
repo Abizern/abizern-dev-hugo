@@ -16,7 +16,9 @@ This is the first post. Just to get something up on this site. I may, or may not
 :EXPORT_HUGO_SECTION: /
 :END:
 
-I am a freelance and iOS and macOS developer based in London. You can find me online at various places with the username of =abizern=.
+I am a freelance and iOS and macOS developer based in London. Currently, I'm a Senior iOS Developer for the Lloyds Banking Group.
+
+You can find me online at various places with the username of =abizern=.
 
 I strive to write modern and maintainable code. Primarily I work in Swift, having moved on from Objective-C, but I've also played around with Ruby, Python, Haskell, and Common Lisp.
 
@@ -25,7 +27,7 @@ I organise the monthly [[http://nscodernightlondon.com][NSCoder Night London]] m
 You can see my old blog over at [[https:abizern.org][abizern.org]] but I'm going to keep this one just for developer stuff and code.
 
 ** Contract availability
-I'm available for new contracts.
+I'm not available for new contracts.
 
 ** GPG
 

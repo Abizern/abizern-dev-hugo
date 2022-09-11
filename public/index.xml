@@ -22,7 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://abizern.dev/about/</guid>
-      <description>I am a freelance and iOS and macOS developer based in London. You can find me online at various places with the username of abizern.
+      <description>I am a freelance and iOS and macOS developer based in London. Currently, I&amp;rsquo;m a Senior iOS Developer for the Lloyds Banking Group.
+You can find me online at various places with the username of abizern.
 I strive to write modern and maintainable code. Primarily I work in Swift, having moved on from Objective-C, but I&amp;rsquo;ve also played around with Ruby, Python, Haskell, and Common Lisp.
 I organise the monthly NSCoder Night London meetup when iOS and macOS developers meet to chat.</description>
     </item>
@@ -34,9 +35,9 @@ I organise the monthly NSCoder Night London meetup when iOS and macOS developers
       
       <guid>https://abizern.dev/talks/</guid>
       <description>Talks and presentations I&amp;rsquo;ve given at various conferences and meet-ups over the years.
-The Road to Damascus, or FRP and Me NSSpain 2017-09-14
+The Road to Damascus, or FRP and Me Link to heading NSSpain 2017-09-14
 A talk given at NSSpain about my experiences of looking into using Functional Reactive Programming with RxSwift.
-Slides on Speaker Deck Video on NSSpain&amp;rsquo;s Vimeo Be Your Own Backend Developer Code Mobile, Chester, 2017-04-18
+Slides on Speaker Deck Video on NSSpain&amp;rsquo;s Vimeo Be Your Own Backend Developer Link to heading Code Mobile, Chester, 2017-04-18
 An overview of Serve Side Swift. A video recording was made, but unfortunately it isn&amp;rsquo;t available.</description>
     </item>
     
